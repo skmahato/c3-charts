@@ -1,0 +1,20 @@
+.app {
+  .charts {
+    display: flex;
+
+    &__donut {
+      flex: 2;
+      margin: 0 10px;
+    }
+
+    &__bar {
+      flex: 2;
+      margin: 0 10px;
+    }
+
+    &__gauge {
+      flex: 2;
+      margin: 0 10px;
+    }
+  }
+}
